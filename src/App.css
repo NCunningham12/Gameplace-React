@@ -37,3 +37,16 @@
     transform: translateY(0px);
   }
 }
+
+.navbar-text {
+  color: white;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.flex-nav {
+  width: 75%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
