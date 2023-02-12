@@ -65,7 +65,7 @@ export const GAMES = [
     name: "Choo-Choo Charles",
     image: chooChooCharlesThumbnail,
     developer: "Two Star Games",
-    genre: ["survival horror", "fps", "open world"],
+    genre: ["survival", "horror", "fps", "open world"],
     rating: 7 / 10,
     featured: false,
     goty: false,
